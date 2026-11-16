@@ -96,26 +96,26 @@
 # =================== Tesis ===================
 - clase: tesis
   title: "Tesis doctoral sobre replicación de experimentos y meta-análisis desde la perspectiva bayesiana"
-  autores: "Mayoral, A. M. Dirigida por M. J. Bayarri"
+  autores: "Asunción Mtnez. Mayoral. Dirigida por María Jesús Bayarri"
   fuente: "Universitat de València"
   anio: 1998
   linea: bayes
 - clase: tesis
   title: "Propuesta bayesiana para la elaboración de mapas genéticos"
-  autores: "Mónica Alacreu García (tesis dirigida)"
+  autores: "Mónica Alacreu García. Dirigida por Emilio Carbonell (IVIA) y Asunción Mtnez. Mayoral (UMH)"
   fuente: "Doctorado en Estadística e Investigación Operativa, Universitat de València"
   anio: 2016
   linea: bayes
 - clase: tesis
   title: "Espacios educativos innovadores y sostenibles. Avanzando hacia los ODS. Estudio en el contexto de institutos de Educación Secundaria públicos en la Comunidad Valenciana"
-  autores: "Isabel Montiel Vaquer (tesis dirigida)"
+  autores: "Isabel Montiel Vaquer. Dirigida por Jose Navarro Pedreño y Asunción Mtnez. Mayoral (UMH)"
   fuente: "Doctorado en Medio Ambiente y Sostenibilidad, Universidad Miguel Hernández"
   anio: 2022
   linea: educacion
   blog: /blog/posts/2022-04-07-tesis-en-espacios-educativos-innovadores-y-sostenibles/index.html
 - clase: tesis
   title: "Optimización del rendimiento predictivo mediante la selección de configuraciones de modelos: un enfoque de conjunto"
-  autores: "Carlos García Aroca (tesis dirigida)"
+  autores: "Carlos García Aroca. Dirigida por Asunción Mtnez. Mayoral y Javier Morales (UMH)"
   fuente: "Doctorado en Estadística, Optimización y Matemática Aplicada, Universidad Miguel Hernández"
   anio: 2026
   linea: ia
