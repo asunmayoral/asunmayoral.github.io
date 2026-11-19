@@ -22,7 +22,7 @@ listing:
     sort: "orden"
 ---
 
-Dentro del proyecto interuniversitario [Unidigital-Prodigital](https://unidigital.umh.es/prodigital), desde la UMH elaboramos recursos de aprendizaje en abierto para el **Área 2 «Comunicación y colaboración»** de los marcos europeos de competencia digital: siete cursos de nivel B2, con 37 módulos y 18,5 horas de formación en total. Con las contribuciones de todas las universidades valencianas participantes se construyó la [plataforma Prodigital](https://uni-prodigital.es/prodigital-api/rest/inicio).
+Dentro del proyecto interuniversitario [Unidigital-Prodigital](https://unidigital.umh.es/prodigital), financiado por la Unión Europea bajo el Plan de Recuperación, Transformación y Resiliencias (2021-2023), en la UMH elaboramos recursos de aprendizaje en abierto para el **Área 2 «Comunicación y colaboración»** de los marcos europeos de competencia digital: siete cursos de nivel B2, con 37 módulos y 18,5 horas de formación en total. Con las contribuciones de todas las universidades valencianas participantes en el proyecto se construyó la [plataforma Prodigital](https://uni-prodigital.es/prodigital-api/rest/inicio), donde cualquier usuario de dichas universidades puede formarse para conseguir una acreditación de su competencia digital, sea de tipo general o específicamente docente.
 
 Cada módulo tiene un **PDF** (en el repositorio institucional RediUMH), un **vídeo**, un **cuestionario** de autoevaluación y, en algunos casos, una **infografía**. Todos los vídeos están reunidos en una [lista de YouTube](https://www.youtube.com/playlist?list=PLClKgnzRFYe5Kck9xzadyq4iq7Dqu-NDO), y cada curso puede seguirse también en el Campus UMH (con identificación). Puedes desplegar cada curso o buscar directamente un tema.
 
